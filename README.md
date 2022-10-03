@@ -5,7 +5,9 @@
 
 + **Language**
 
-  <img alt="Cpp" src ="https://img.shields.io/badge/C++-045FB4.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt ="Swift" src="https://img.shields.io/badge/Swift-FF8000.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt ="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFF00.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt ="Python" src="https://img.shields.io/badge/Python-5882FA.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
+  <img alt="Cpp" src ="https://img.shields.io/badge/C++-045FB4.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt ="Swift" src="https://img.shields.io/badge/Swift-FF8000.svg?&style=for-the-badge&logo=Swift&logoColor=white"/> <img alt ="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFF00.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> 
+  
+  <img alt ="Python" src="https://img.shields.io/badge/Python-5882FA.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt ="Java" src="https://img.shields.io/badge/Java-088A68.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/> 
 
 + **Learning**
 
