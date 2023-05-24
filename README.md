@@ -40,3 +40,11 @@
       work();
     }
     ```
+    ```py
+    def work():
+      if(canWork):
+        work()
+        return;
+      drinkCoffee(1)
+      work()
+    ```
