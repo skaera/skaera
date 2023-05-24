@@ -24,7 +24,7 @@
 
 
 + **Contact**
-  + **Discord** : [Npe Shop](https://discord.gg/qBzAH7gA93)
+  + **Discord** : 곰돌이#4292
   
   
 + **My Life**  
