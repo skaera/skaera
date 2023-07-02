@@ -24,7 +24,7 @@
 
 
 + **Contact**
-  + **Discord** : 곰돌이#4292
+  + **E-mail**: skc234234@naver.com
   
   
 + **My Life**  
