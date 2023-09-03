@@ -36,7 +36,7 @@
         work();
         return;
       }
-      drinkCoffee(1);
+      watchSTAYC(1);
       work();
     }
     ```
@@ -45,6 +45,8 @@
       if(canWork):
         work()
         return;
-      drinkCoffee(1)
+      watchSTAYC(1)
       work()
     ```
+
+    + **Goat, Legend : STAYC**
